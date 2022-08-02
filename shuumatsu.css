@@ -57,6 +57,7 @@ nav {
     padding: 10px;
     box-shadow: 0px 7px 7px rgb(0, 0, 0, 0.192);
     text-align: center;
+    margin: 0px 1px 1px 1px;
 }       
 nav a {
     color: #FF524F;
