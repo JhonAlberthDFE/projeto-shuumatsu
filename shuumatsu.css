@@ -37,7 +37,7 @@ header p {
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.324);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 main p {
     text-indent: 30px;
