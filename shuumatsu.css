@@ -50,26 +50,27 @@ img.media{
     padding: 0px;
     margin: 5px auto 5px auto;
     min-width: 300px;
-    max-width: 600px;
+    max-width: 1000px;
 }
 nav {
     background-color: #CC110E;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 0px 7px 7px rgb(0, 0, 0, 0.192);
     text-align: center;
-    margin: 0px 1px 1px 1px;
 }       
 nav a {
     color: #FF524F;
     text-decoration: none;
-    padding: 10px;
+    padding: 2px;
     font-weight: bold;
     border-radius: 5px;
     transition-duration: 0.5s;
+    margin: 0px;
 }
     nav > a:hover {
     background-color: black ;
     color: #CC110E;
+    margin: 0px;
 }
 main {
     background-color: white;
