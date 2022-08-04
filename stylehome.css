@@ -162,3 +162,6 @@ div  iframe {
     width: 90% ;
     height: 90%;
 }
+footer a.externo::after{
+    content: "\00a0\1f517";
+}
